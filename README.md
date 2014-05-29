@@ -10,7 +10,7 @@ This driver initializes the device, destroys it and pulls and posts pixels and c
 COMPILING AND INSTALLING
 ------------------------
 
-To compile the kernel module, run make inside the assign3 directory. A executable verify will be created will be created and can be executed by './verify' to run all the workloads. And can run seperately with usage such as './verify -v < workload/[workload name]'.
+To compile the kernel module, run `make` inside the `assign3` directory. A executable verify will be created will be created and can be executed by `./verify` to run all the workloads. And can run seperately with usage such as `./verify -v < workload/[workload name]`.
 
 QUESTIONS?
 ----------
